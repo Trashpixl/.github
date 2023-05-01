@@ -1,2 +1,2 @@
 # Trashpixl-Wiki
-Read this repo to fer started
+Read this repo to get started
