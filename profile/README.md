@@ -1,12 +1,19 @@
-## Hi there 👋
+# Trashpixl README
 
-<!--
+Welcome to Trashpixl's GitHub. We hope you enjoy your journey on this beautiful server.
 
-**Here are some ideas to get you started:**
+# How to Contribute to the Project
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To contribute to the project, you can visit the relevant section of the README that pertains to your area of interest. 
+
+# Contributing to the Main Plugin
+If you wish to contribute to the main plugin, please follow the instructions provided in the Trashpixl-code repository.
+
+# Contributing to the Website
+To contribute to the website, you will need to open a pull request that includes your code changes and a comprehensive description of the changes. Instructions on how to get started are available either in the Trashpixl.github.io repository for website-related changes.
+
+# Building Minigame Maps
+If you are interested in building minigame maps, you can read the readme present in the trashpixl-minigame-structure and follow the instruction.
+
+# Discord Server Moderation
+To become a moderator on the Discord server, please email us using the server's public email. If we don't respond to your email it means that we are not accepting new candidates at this time.
