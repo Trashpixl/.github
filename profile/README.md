@@ -4,7 +4,7 @@ Welcome to Trashpixl's GitHub. We hope you enjoy your journey on this beautiful 
 
 # How to Contribute to the Project
 
-To contribute to the project, you can visit the relevant section of the README that pertains to your area of interest. 
+To contribute to the project, you can visit the relevant section of the README that pertains to your area of interest. We will accept all the help to create the website
 
 # Contributing to the Main Plugin
 If you wish to contribute to the main plugin, please follow the instructions provided in the Trashpixl-code repository.
