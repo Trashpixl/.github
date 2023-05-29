@@ -16,4 +16,7 @@ To contribute to the website, you will need to open a pull request that includes
 If you are interested in building minigame maps, you can read the readme present in the trashpixl-minigame-structure and follow the instruction.
 
 # Discord Server Moderation
-To become a moderator on the Discord server, please email us using the server's public email. If we don't respond to your email it means that we are not accepting new candidates at this time.
+To become a moderator on the Discord server, please email us at trashpixl@gmail.com or fill out the form available on our website, under the contribute tab.
+
+# Minecraft Builder 
+To become a builder on our minecraft server, please email us at trashpixl@gmail.com or fill out the form available on our website, under the contribute tab.
