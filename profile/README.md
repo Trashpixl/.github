@@ -1,3 +1,6 @@
+# This project is Closed
+The boot drive of the server died and we lost the password for the backup. So we lost the ability to continue This project.
+
 # Trashpixl README
 
 Welcome to Trashpixl's GitHub. We hope you enjoy your journey on this beautiful server.
